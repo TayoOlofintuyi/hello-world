@@ -1,3 +1,5 @@
 # hello-world
-This is one of my first repositories. I'm learing how to use github outside of class.
-
+I have edited the README.md !
+Fun little fact about me:
+  My favorite color is #77133b!
+  
